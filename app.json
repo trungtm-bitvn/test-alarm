@@ -1,0 +1,12 @@
+{
+  "name": "test-alarm",
+  "displayName": "test-alarm",
+  "expo": {
+    "name": "test-alarm",
+    "slug": "test-alarm",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
